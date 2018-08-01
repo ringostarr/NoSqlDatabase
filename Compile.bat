@@ -1,0 +1,1 @@
+devenv oodp1.sln /rebuild "debug|x86"

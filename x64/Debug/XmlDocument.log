@@ -1,0 +1,10 @@
+﻿  XmlParser.cpp
+c:\users\ringo\documents\visual studio 2017\projects\oodp1\xmldocument\xmlparser.cpp(127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ringo\documents\visual studio 2017\projects\oodp1\xmldocument\xmlparser.cpp(129): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\ringo\documents\visual studio 2017\projects\oodp1\xmldocument\xmlparser.cpp(193): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  xmlElementParts.cpp
+  XmlElement.cpp
+  XmlDocument.cpp
+  Tokenizer.cpp
+  Generating Code...
+  XmlDocument.vcxproj -> C:\Users\Ringo\Documents\Visual Studio 2017\Projects\oodp1\x64\Debug\XmlDocument.lib
